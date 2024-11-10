@@ -11,3 +11,29 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+header {
+    background-color:aliceblue;
+    text-align: center;
+}
+
+main {
+    background-color: blanchedalmond;
+}
+
+img {
+    border: 5px solid #030202;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: brown;
+    font-style: italic;
+}
+
+footer {
+    background-color: rgb(177, 211, 200);
+}
